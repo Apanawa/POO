@@ -7,11 +7,10 @@ using namespace std;
 
 int main()
 {
-    float altura = 1.70;
-    cout << altura << "\n";
-    const float GRAVEDAD = 9.8;
-    cout << GRAVEDAD << "\n";
-    cout << PI;
+    int a = 20;
+    float b = 10;
+    
+    cout << a - b;
 
     return 0;
 }
