@@ -1,17 +1,15 @@
 #include <iostream>
 
-// Declarando constantes
-#define PI 3.1416
-
 using namespace std;
 
-int main()
-{
-    int a = 20;
-    float b = 10;
-    
-    cout << a - b;
+int main() {
 
-    return 0;
+	if () {
+	
+	}
+	else {
+
+	}
+
+	return 0;
 }
-

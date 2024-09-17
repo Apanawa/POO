@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{A1F58B8A-4594-4142-B49B-9AD8BCD1F0E7}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1F58B8A-4594-4142-B49B-9AD8BCD1F0E7}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\eheca\\OneDrive\\Documentos\\GitHub\\POO\\Curso de C\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1\\calculadoraIMC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1F58B8A-4594-4142-B49B-9AD8BCD1F0E7}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\calculadoraIMC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1F58B8A-4594-4142-B49B-9AD8BCD1F0E7}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\eheca\\OneDrive\\Documentos\\GitHub\\POO\\Curso de C\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1F58B8A-4594-4142-B49B-9AD8BCD1F0E7}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -22,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "calculadoraIMC.cpp",
-              "DocumentMoniker": "C:\\Users\\eheca\\OneDrive\\Documentos\\GitHub\\POO\\Curso de C\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1\\calculadoraIMC.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\calculadoraIMC.cpp",
-              "ToolTip": "C:\\Users\\eheca\\OneDrive\\Documentos\\GitHub\\POO\\Curso de C\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1\\calculadoraIMC.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\calculadoraIMC.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-03T23:22:33.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\eheca\\OneDrive\\Documentos\\GitHub\\POO\\Curso de C\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1\\Source.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\Source.cpp",
@@ -47,8 +30,7 @@
               "RelativeToolTip": "ConsoleApplication1\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-03T23:22:12.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T23:22:12.513Z"
             },
             {
               "$type": "Document",
@@ -58,7 +40,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
               "ToolTip": "C:\\Users\\eheca\\OneDrive\\Documentos\\GitHub\\POO\\Curso de C\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-03T22:16:25.144Z",
               "EditorCaption": ""
